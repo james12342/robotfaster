@@ -1,0 +1,10 @@
+C:\work\github\taskt\taskt-updater\bin\Release\taskt-updater.exe.config
+C:\work\github\taskt\taskt-updater\bin\Release\taskt-updater.exe
+C:\work\github\taskt\taskt-updater\bin\Release\taskt-updater.pdb
+C:\work\github\taskt\taskt-updater\obj\Release\taskt-updater.csproj.AssemblyReference.cache
+C:\work\github\taskt\taskt-updater\obj\Release\taskt_updater.frmUpdating.resources
+C:\work\github\taskt\taskt-updater\obj\Release\taskt_updater.Properties.Resources.resources
+C:\work\github\taskt\taskt-updater\obj\Release\taskt-updater.csproj.GenerateResource.cache
+C:\work\github\taskt\taskt-updater\obj\Release\taskt-updater.csproj.CoreCompileInputs.cache
+C:\work\github\taskt\taskt-updater\obj\Release\taskt-updater.exe
+C:\work\github\taskt\taskt-updater\obj\Release\taskt-updater.pdb
